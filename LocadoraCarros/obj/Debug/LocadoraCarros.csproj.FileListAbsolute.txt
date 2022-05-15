@@ -1,0 +1,8 @@
+D:\PROJETOS BACKEND\LocadoraCarros\LocadoraCarros\bin\Debug\LocadoraCarros.exe.config
+D:\PROJETOS BACKEND\LocadoraCarros\LocadoraCarros\bin\Debug\LocadoraCarros.exe
+D:\PROJETOS BACKEND\LocadoraCarros\LocadoraCarros\bin\Debug\LocadoraCarros.pdb
+D:\PROJETOS BACKEND\LocadoraCarros\LocadoraCarros\obj\Debug\LocadoraCarros.csproj.AssemblyReference.cache
+D:\PROJETOS BACKEND\LocadoraCarros\LocadoraCarros\obj\Debug\LocadoraCarros.csproj.SuggestedBindingRedirects.cache
+D:\PROJETOS BACKEND\LocadoraCarros\LocadoraCarros\obj\Debug\LocadoraCarros.csproj.CoreCompileInputs.cache
+D:\PROJETOS BACKEND\LocadoraCarros\LocadoraCarros\obj\Debug\LocadoraCarros.exe
+D:\PROJETOS BACKEND\LocadoraCarros\LocadoraCarros\obj\Debug\LocadoraCarros.pdb
